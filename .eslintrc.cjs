@@ -5,19 +5,19 @@
  * Sample Eslint config for NodeJS ExpressJS MongoDB project
  */
 module.exports = {
-	env: { es2020: true, node: true },
-	extends: [
+  env: { es2020: true, node: true },
+  extends: [
     'eslint:recommended'
   ],
   parser: '@babel/eslint-parser',
-	parserOptions: {
+  parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
     requireConfigFile: false,
     allowImportExportEverywhere: true
-	},
+  },
   plugins: [],
-	rules: {
+  rules: {
     // Common
     'no-console': 1,
     'no-extra-boolean-cast': 0,
@@ -38,5 +38,5 @@ module.exports = {
     'comma-dangle': 1,
     'comma-spacing': 1,
     'arrow-spacing': 1
-	}
+  }
 }
