@@ -7,7 +7,7 @@
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở đây nhé:
 
-- Link: Đang update
+- Link: https://youtu.be/8hhXamKIdsY
 
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
