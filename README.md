@@ -2,8 +2,11 @@
 ### Base project for my MERN Stack Pro Course - Build Trello App on YouTube!
 
 - Link Download Full Source Code hoàn chỉnh của bộ này và ủng hộ mình (Vui lòng đọc phần mô tả ở bất kỳ video nào trong chuỗi MERN Stack để hiểu tại sao có 2 link bên dưới)
+
 🤝 Get Full Source Code for this Course here and support me 🍀
+
 🎁 on Ko-fi: https://ko-fi.com/s/e41c325ca4
+
 🎁 on Buy Me a Coffee: https://www.buymeacoffee.com/codetq/e/191152
 
 - Link YouTube Playlist: https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy
