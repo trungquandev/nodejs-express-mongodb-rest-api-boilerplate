@@ -5,11 +5,11 @@
 
 - Link Download Full Source Code hoàn chỉnh của bộ này và ủng hộ mình (Vui lòng đọc phần mô tả ở bất kỳ video nào trong Playlist MERN Stack để hiểu tại sao có 2 link bên dưới)
 
-🤝 Get Full Source Code for this Course here and support me 🍀
+- 🤝 Get Full Source Code for this Course here and support me 🍀
 
-🎁 on Ko-fi: https://ko-fi.com/s/e41c325ca4
+- 🎁 on Ko-fi: https://ko-fi.com/s/e41c325ca4
 
-🎁 on Buy Me a Coffee: https://www.buymeacoffee.com/codetq/e/191152
+- 🎁 on Buy Me a Coffee: https://www.buymeacoffee.com/codetq/e/191152
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở đây nhé:
 
