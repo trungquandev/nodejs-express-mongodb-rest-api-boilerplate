@@ -5,7 +5,7 @@
   "author": "TrungQuanDev - Một Lập Trình Viên",
   "description": "https://youtube.com/@trungquandev",
   "engines": {
-    "node": "18.16.0"
+    "node": ">=18.x"
   },
   "scripts": {
     "lint": "eslint src --ext js --report-unused-disable-directives --max-warnings 0",
