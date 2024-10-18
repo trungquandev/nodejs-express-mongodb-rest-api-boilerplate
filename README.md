@@ -7,7 +7,7 @@
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở video này:
 
-- Cấu trúc dự án nâng cao, chuẩn thực tế, có ESLint | NodeJS + MongoDB. Link: https://youtu.be/8hhXamKIdsY
+- Cấu trúc dự án nâng cao, chuẩn thực tế, có Babel, ESLint...vv | NodeJS + MongoDB. Link: https://youtu.be/8hhXamKIdsY
 
 ---
 
