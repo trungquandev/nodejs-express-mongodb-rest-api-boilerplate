@@ -70,7 +70,7 @@
 
 ### About Me - Thông tin về mình:
 
-Author: **Trungquandev - Một Lập Trình Viên** & **CodeTQ**
+Author: **Trungquandev - Một Lập Trình Viên** && **CodeTQ - ASMR Programming**
 
 Blog: https://trungquandev.com/
 
@@ -78,7 +78,7 @@ CV: https://cv.trungquandev.com/
 
 YouTube 01 (Trungquandev - Một Lập Trình Viên): https://www.youtube.com/@trungquandev
 
-YouTube 02 (CodeTQ): https://www.youtube.com/@code-tq
+YouTube 02 (CodeTQ - ASMR Programming): https://www.youtube.com/@code-tq
 
 "Learning new everyday not the copycat of yesterday!"
 
